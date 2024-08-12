@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Complete Delete From Array module">
-      <change afterPath="$PROJECT_DIR$/src/deleting_items_from_array/RemoveElement.java" afterDir="false" />
+    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Complete Remove Element Array module">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleting_items_from_array/RemoveDuplicateFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
     "Application.InsertAtEndOfArray.executor": "Run",
     "Application.InsertToArray.executor": "Run",
     "Application.MergeArray.executor": "Run",
+    "Application.RemoveDuplicateFromArray.executor": "Run",
     "Application.RemoveElement.executor": "Run",
     "Application.SquaresOfSortedArray.executor": "Run",
     "Application.WritingItemsToArray.executor": "Run",
@@ -87,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723414741525</updated>
       <workItem from="1723414742590" duration="6932000" />
-      <workItem from="1723421980245" duration="16004000" />
+      <workItem from="1723421980245" duration="18368000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Intro">
       <option name="closed" value="true" />
@@ -153,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723438453385</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Complete Remove Element Array module">
+      <option name="closed" value="true" />
+      <created>1723443739534</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723443739534</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +190,7 @@
     <MESSAGE value="complete Merge Array module" />
     <MESSAGE value="Update Merge Array module" />
     <MESSAGE value="Complete Delete From Array module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Delete From Array module" />
+    <MESSAGE value="Complete Remove Element Array module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Remove Element Array module" />
   </component>
 </project>
