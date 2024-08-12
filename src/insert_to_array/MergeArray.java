@@ -12,7 +12,7 @@ public class MergeArray {
         int n = 3;
         merge(nums1, m, nums2, n);
     }
-
+    //O(m+n)
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
 //        for(int i = 0; i < m; i++){
 //            nums1[i] = nums1[i];
