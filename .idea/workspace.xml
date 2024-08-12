@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="complete DuplicateZero module">
-      <change afterPath="$PROJECT_DIR$/src/insert_to_array/MergeArray.java" afterDir="false" />
+    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Update Merge Array module">
+      <change afterPath="$PROJECT_DIR$/src/deleting_items_from_array/DeleteFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayDVDBoxMain.executor": "Run",
+    "Application.DeleteFromArray.executor": "Run",
     "Application.DuplicateZerosInArray.executor": "Run",
     "Application.FindMaxConsecutiveOnes.executor": "Run",
     "Application.FindNumbersWithEvenNumberOfDigtis.executor": "Run",
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723414741525</updated>
       <workItem from="1723414742590" duration="6932000" />
-      <workItem from="1723421980245" duration="9495000" />
+      <workItem from="1723421980245" duration="11111000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Intro">
       <option name="closed" value="true" />
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723431876537</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="complete Merge Array module">
+      <option name="closed" value="true" />
+      <created>1723436742045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436742045</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update Merge Array module">
+      <option name="closed" value="true" />
+      <created>1723437251733</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723437251733</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +168,8 @@
     <MESSAGE value="Completed Intro" />
     <MESSAGE value="complete InsertToArray module" />
     <MESSAGE value="complete DuplicateZero module" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete DuplicateZero module" />
+    <MESSAGE value="complete Merge Array module" />
+    <MESSAGE value="Update Merge Array module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Merge Array module" />
   </component>
 </project>
