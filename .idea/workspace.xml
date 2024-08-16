@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Complete SearchItemsInArray and CheckIfExist module">
-      <change afterPath="$PROJECT_DIR$/src/implementing_array/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementing_array/MyArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching_items_in_array/ValidMountainArray.java" afterDir="false" />
+    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Add Array Implementation; Complete ValidMountainArray">
+      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementing_array/MyArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementing_array/MyArrayMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Application.FindNumbersWithEvenNumberOfDigtis.executor": "Run",
     "Application.InsertAtEndOfArray.executor": "Run",
     "Application.InsertToArray.executor": "Run",
+    "Application.LinkedListMain.executor": "Run",
     "Application.MergeArray.executor": "Run",
     "Application.MyArrayMain.executor": "Run",
     "Application.RemoveDuplicateFromArray.executor": "Run",
@@ -77,6 +79,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementing_linked_list.LinkedListMain" />
+      <module name="Array101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementing_linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +118,8 @@
       <workItem from="1723414742590" duration="6932000" />
       <workItem from="1723421980245" duration="19106000" />
       <workItem from="1723490552934" duration="13921000" />
-      <workItem from="1723598711036" duration="7016000" />
+      <workItem from="1723598711036" duration="8614000" />
+      <workItem from="1723779509510" duration="5937000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Intro">
       <option name="closed" value="true" />
@@ -186,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723495166321</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Array Implementation; Complete ValidMountainArray">
+      <option name="closed" value="true" />
+      <created>1723609890365</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723609890365</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +247,7 @@
     <MESSAGE value="Complete Remove Element Array module" />
     <MESSAGE value="Complete Remove Duplicate Array module" />
     <MESSAGE value="Complete SearchItemsInArray and CheckIfExist module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete SearchItemsInArray and CheckIfExist module" />
+    <MESSAGE value="Add Array Implementation; Complete ValidMountainArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array Implementation; Complete ValidMountainArray" />
   </component>
 </project>

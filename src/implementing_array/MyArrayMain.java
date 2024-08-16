@@ -12,6 +12,7 @@ public class MyArrayMain {
         myArray.push("Leet");
         myArray.push("Array");
         myArray.push("Apple");
+        myArray.push(12);
 
 
         for(int i =0; i < myArray.length; i++){
