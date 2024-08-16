@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Add Array Implementation; Complete ValidMountainArray">
-      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/LinkedListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementing_linked_list/Node.java" afterDir="false" />
+    <list default="true" id="11886092-0c4b-4201-87cb-1a88bf2afb92" name="Changes" comment="Complete insert,getNode, append, prepend methods for Linked List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/implementing_array/MyArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementing_array/MyArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/implementing_linked_list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/implementing_linked_list/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +116,7 @@
       <workItem from="1723421980245" duration="19106000" />
       <workItem from="1723490552934" duration="13921000" />
       <workItem from="1723598711036" duration="8614000" />
-      <workItem from="1723779509510" duration="5937000" />
+      <workItem from="1723779509510" duration="7294000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Intro">
       <option name="closed" value="true" />
@@ -217,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723609890365</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Complete insert,getNode, append, prepend methods for Linked List">
+      <option name="closed" value="true" />
+      <created>1723792447546</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723792447546</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +253,7 @@
     <MESSAGE value="Complete Remove Duplicate Array module" />
     <MESSAGE value="Complete SearchItemsInArray and CheckIfExist module" />
     <MESSAGE value="Add Array Implementation; Complete ValidMountainArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Array Implementation; Complete ValidMountainArray" />
+    <MESSAGE value="Complete insert,getNode, append, prepend methods for Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete insert,getNode, append, prepend methods for Linked List" />
   </component>
 </project>

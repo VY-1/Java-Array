@@ -10,7 +10,8 @@ public class LinkedListMain {
         System.out.println(myLinkedList.insert(2,15));
         System.out.println(myLinkedList.insert(5,25));
         System.out.println(myLinkedList.insert(-1,25));
-
+        System.out.println(myLinkedList.remove(0));
+        myLinkedList.remove(2);
         myLinkedList.printList();
     }
 }

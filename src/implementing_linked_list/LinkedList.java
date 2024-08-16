@@ -48,6 +48,23 @@ public class LinkedList {
 
     }
 
+    public boolean remove(int index){
+        if(index > this.length || index < 0){
+            return false;
+        }
+        if(index == 0 ){
+            this.head = this.head.getNext();
+            this.length--;
+            return true;
+        }
+        Node nodeBeforeUnwanted = this.getNode(index-1);
+        Node unwantedNode = nodeBeforeUnwanted.getNext();
+        nodeBeforeUnwanted.setNext(unwantedNode.getNext());
+        this.length--;
+        return true;
+
+    }
+
     public void printList(){
         Node temp = this.head;
         while(temp != null){
